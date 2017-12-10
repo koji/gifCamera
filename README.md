@@ -1,6 +1,8 @@
 # gifCamera
-rapid prototyping demo  
-https://www.instagram.com/p/BcTRArcBDBT/?taken-by=coder503
+rapid prototyping demo video  
+https://www.instagram.com/p/BcTRArcBDBT/?taken-by=coder503  
+  
+  
 ![](https://github.com/kojikanao/gifCamera/blob/master/images/itZUfB.gif)
 
 
