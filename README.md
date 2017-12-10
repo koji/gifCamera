@@ -1,5 +1,7 @@
 # gifCamera
-gif camera
+rapid prototyping demo  
+https://www.instagram.com/p/BcTRArcBDBT/?taken-by=coder503
+
 
 ### Software Required
 ・python  
