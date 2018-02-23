@@ -7,7 +7,7 @@ https://www.instagram.com/p/BcTRArcBDBT/?taken-by=coder503
 
 
 ### Software Required
-・python  
+・python3  
 ・picamera https://picamera.readthedocs.io/en/release-1.13/  
 ・ffmpeg  
 ・imagemagik https://www.imagemagick.org/script/index.php  
