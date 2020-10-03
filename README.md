@@ -9,7 +9,7 @@ https://www.instagram.com/p/BcTRArcBDBT/?taken-by=coder503
 ### Software Required
 ・python3  
 ・picamera https://picamera.readthedocs.io/en/release-1.13/  
-・ffmpeg  
+・ffmpeg https://ffmpeg.org/ffmpeg.html
 ・imagemagik https://www.imagemagick.org/script/index.php  
 ・Twython https://twython.readthedocs.io/en/latest/  (If you want to share your gifs on Twitter)
 
